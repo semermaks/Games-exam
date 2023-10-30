@@ -1,0 +1,16 @@
+C:\Users\chuwi\source\repos\HagExam08062022\MenuClient\bin\Debug\MenuClient.exe.config
+C:\Users\chuwi\source\repos\HagExam08062022\MenuClient\bin\Debug\MenuClient.exe
+C:\Users\chuwi\source\repos\HagExam08062022\MenuClient\bin\Debug\MenuClient.pdb
+C:\Users\chuwi\source\repos\HagExam08062022\MenuClient\obj\Debug\MenuClient.csproj.AssemblyReference.cache
+C:\Users\chuwi\source\repos\HagExam08062022\MenuClient\obj\Debug\MenuClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\chuwi\source\repos\HagExam08062022\MenuClient\obj\Debug\MainWindow.g.cs
+C:\Users\chuwi\source\repos\HagExam08062022\MenuClient\obj\Debug\App.g.cs
+C:\Users\chuwi\source\repos\HagExam08062022\MenuClient\obj\Debug\MenuClient_MarkupCompile.cache
+C:\Users\chuwi\source\repos\HagExam08062022\MenuClient\obj\Debug\MenuClient_MarkupCompile.lref
+C:\Users\chuwi\source\repos\HagExam08062022\MenuClient\obj\Debug\MainWindow.baml
+C:\Users\chuwi\source\repos\HagExam08062022\MenuClient\obj\Debug\MenuClient.g.resources
+C:\Users\chuwi\source\repos\HagExam08062022\MenuClient\obj\Debug\MenuClient.Properties.Resources.resources
+C:\Users\chuwi\source\repos\HagExam08062022\MenuClient\obj\Debug\MenuClient.csproj.GenerateResource.cache
+C:\Users\chuwi\source\repos\HagExam08062022\MenuClient\obj\Debug\MenuClient.csproj.CoreCompileInputs.cache
+C:\Users\chuwi\source\repos\HagExam08062022\MenuClient\obj\Debug\MenuClient.exe
+C:\Users\chuwi\source\repos\HagExam08062022\MenuClient\obj\Debug\MenuClient.pdb
